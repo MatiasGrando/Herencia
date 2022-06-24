@@ -1,6 +1,6 @@
 package com.company;
 
-public class VehiculoVolador extends Vehiculo{
+public abstract class VehiculoVolador extends Vehiculo{
 
     private int altura;
 
