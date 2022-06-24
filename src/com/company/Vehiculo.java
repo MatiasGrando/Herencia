@@ -1,6 +1,6 @@
 package com.company;
 
-public class Vehiculo {
+public abstract class Vehiculo {
 
     private String patente;
     private int posicion;
